@@ -1,2 +1,2 @@
 #test
-##A simple repo used to master git bassh ;)
+A simple repo used to master git bash ;)
